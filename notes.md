@@ -4,3 +4,4 @@
 - 2020-02-19T14:32:35: add error handling
 - 2020-07-13T07:04:29: quick cleanup
 - 2020-08-04T05:36:37: add notes
+- 2021-04-01T20:12:42: improve logging
