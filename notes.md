@@ -8,3 +8,4 @@
 - 2021-04-08T18:18:00: optimize query
 - 2021-04-18T15:33:18: rename vars
 - 2021-05-14T08:07:01: add comments
+- 2021-11-17T15:34:31: refactor utils
