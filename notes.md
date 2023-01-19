@@ -18,3 +18,4 @@
 - 2023-01-09T11:01:31: fix formatting
 - 2023-01-13T10:56:43: minor refactor
 - 2023-01-15T17:39:16: update gitignore
+- 2023-01-19T10:12:12: code review fixes
