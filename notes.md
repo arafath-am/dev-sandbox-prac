@@ -25,3 +25,4 @@
 - 2023-04-02T12:21:14: minor refactor
 - 2023-04-29T11:10:35: fix import
 - 2023-05-01T17:43:01: minor refactor
+- 2023-06-23T09:17:06: update config
