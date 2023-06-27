@@ -27,3 +27,4 @@
 - 2023-05-01T17:43:01: minor refactor
 - 2023-06-23T09:17:06: update config
 - 2023-06-23T15:40:24: update deps
+- 2023-06-27T13:39:59: fix edge case
