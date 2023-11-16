@@ -31,3 +31,4 @@
 - 2023-09-05T15:17:24: bump version
 - 2023-10-01T18:10:18: fix import
 - 2023-10-16T12:31:03: update gitignore
+- 2023-11-16T14:42:56: fix edge case
