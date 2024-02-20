@@ -35,3 +35,4 @@
 - 2023-12-03T10:03:49: fix typo
 - 2024-01-14T08:20:49: quick cleanup
 - 2024-01-24T08:44:55: bump version
+- 2024-02-20T09:41:54: optimize query
