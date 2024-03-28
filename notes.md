@@ -38,3 +38,4 @@
 - 2024-02-20T09:41:54: optimize query
 - 2024-03-09T15:47:13: bump version
 - 2024-03-19T12:43:01: fix import
+- 2024-03-28T09:29:53: add error handling
