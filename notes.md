@@ -44,3 +44,4 @@
 - 2024-05-04T20:31:32: reorganize files
 - 2024-06-05T08:32:59: bump version
 - 2024-06-12T21:46:46: update config
+- 2024-06-16T19:25:59: update readme
