@@ -48,3 +48,4 @@
 - 2024-06-27T16:43:23: minor refactor
 - 2024-07-24T14:11:11: rename vars
 - 2024-08-16T01:17:59: add error handling
+- 2024-08-19T09:15:44: add notes
